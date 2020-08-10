@@ -1,0 +1,13 @@
+/workspace/github-netconsole-base/Challenge/bin/Debug/netcoreapp3.1/Challenge
+/workspace/github-netconsole-base/Challenge/bin/Debug/netcoreapp3.1/Challenge.deps.json
+/workspace/github-netconsole-base/Challenge/bin/Debug/netcoreapp3.1/Challenge.runtimeconfig.json
+/workspace/github-netconsole-base/Challenge/bin/Debug/netcoreapp3.1/Challenge.runtimeconfig.dev.json
+/workspace/github-netconsole-base/Challenge/bin/Debug/netcoreapp3.1/Challenge.dll
+/workspace/github-netconsole-base/Challenge/bin/Debug/netcoreapp3.1/Challenge.pdb
+/workspace/github-netconsole-base/Challenge/obj/Debug/netcoreapp3.1/Challenge.csprojAssemblyReference.cache
+/workspace/github-netconsole-base/Challenge/obj/Debug/netcoreapp3.1/Challenge.csproj.CoreCompileInputs.cache
+/workspace/github-netconsole-base/Challenge/obj/Debug/netcoreapp3.1/Challenge.AssemblyInfoInputs.cache
+/workspace/github-netconsole-base/Challenge/obj/Debug/netcoreapp3.1/Challenge.AssemblyInfo.cs
+/workspace/github-netconsole-base/Challenge/obj/Debug/netcoreapp3.1/Challenge.dll
+/workspace/github-netconsole-base/Challenge/obj/Debug/netcoreapp3.1/Challenge.pdb
+/workspace/github-netconsole-base/Challenge/obj/Debug/netcoreapp3.1/Challenge.genruntimeconfig.cache

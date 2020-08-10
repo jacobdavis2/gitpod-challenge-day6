@@ -1,0 +1,9 @@
+image: gitpod/workspace-dotnet
+
+tasks:
+  - init: 'echo "TODO: Replace with init/build command"'
+    command: dotnet build Challenge
+    
+vscode:
+  extensions:
+    - ms-vscode.csharp@1.21.12:kw8SkO8+aVTSFug281WfQQ==
